@@ -36,6 +36,11 @@
 			"domain_files": ["epicgames.txt"]
 		},
 		{
+			"name": "hoyoverse",
+			"description": "CDN for HoYoverse",
+			"domain_files": ["hoyoverse.txt"]
+		},
+		{
 			"name": "frontier",
 			"description": "CDN for frontier games",
 			"domain_files": ["frontier.txt"]
